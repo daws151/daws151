@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daws151
-- 👀 I’m interested in full-stack development of both web and desktop applications.
+- 👀 I’m interested in full-stack web and desktop app development.
 - 🌱 I’m currently learning C# (+ ASP.NET), Java, Python, JavaScript (+ Node.js), and SQL.
 - 📫 How to reach me - email is preferred
 
