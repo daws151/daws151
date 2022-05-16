@@ -1,0 +1,10 @@
+[user]
+email = dawson.bt@gmail.com
+name = Brett Dawson
+
+[github]
+user = "daws151"
+
+[core]
+sshCommand = "ssh -i ~/.ssh/second_odin"
+
