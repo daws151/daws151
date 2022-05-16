@@ -1,0 +1,9 @@
+ [user]
+ email = brett@atvenu.com
+ name = Brett Dawson
+ 
+ [github]
+ user = "daws151"
+ 
+ [core]
+ sshCommand = "ssh -i ~/.ssh/daws151-GitHub.pub"
